@@ -1,0 +1,41 @@
+body
+{
+   text-align: left;
+   background-image: url("image_mer.jpg");
+   background-attachment: fixed;
+}
+p
+{
+    font-size: small;
+
+}
+h1
+{
+   text-align: center;
+   border : 5px solid black;
+   width: ;
+   background-color: blue;
+
+}
+
+h2 h3
+{
+    font-size: x-large;
+}
+
+strong
+{
+   color: blue;
+   text-decoration: underline;
+   font-weight: bold;
+}
+ @font-face {
+    font-family: 'Amble Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Amble Regular'), url('Amble-Regular.woff') format('woff');
+    }
+p
+{
+   font-family: 'Amble Regular'; "Comic sans MS";
+}
